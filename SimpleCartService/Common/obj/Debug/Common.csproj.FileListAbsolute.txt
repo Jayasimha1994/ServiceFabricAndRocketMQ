@@ -1,0 +1,17 @@
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Common.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Common.pdb
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Microsoft.ServiceFabric.Data.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Microsoft.ServiceFabric.Preview.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\System.Fabric.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\System.Fabric.Management.ServiceModel.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\System.Fabric.Strings.dll
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Microsoft.ServiceFabric.Data.xml
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\Microsoft.ServiceFabric.Preview.xml
+F:\C#programs\SimpleStoreApplication\Common\bin\Debug\System.Fabric.xml
+F:\C#programs\SimpleStoreApplication\Common\obj\Debug\Common.dll
+F:\C#programs\SimpleStoreApplication\Common\obj\Debug\Common.pdb
